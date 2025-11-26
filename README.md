@@ -1,8 +1,8 @@
-# 🍽️ FoodTracker
+#  FoodTracker
 
 **Aplikasi pelacakan makanan dan kalori berbasis web yang membantu pengguna mengelola pola makan dan mencapai target nutrisi harian.**
 
-## 📋 Problem Statement (Masalah yang Diselesaikan)
+##  Problem Statement (Masalah yang Diselesaikan)
 
 Banyak orang kesulitan untuk:
 - Melacak asupan kalori dan nutrisi harian mereka
@@ -11,7 +11,7 @@ Banyak orang kesulitan untuk:
 - Mengelola data makanan secara terorganisir dengan visual yang menarik
 - Memiliki catatan makanan yang dapat diakses kapan saja
 
-## 💡 Solution Overview (Solusi yang Dibuat)
+##  Solution Overview (Solusi yang Dibuat)
 
 FoodTracker adalah aplikasi web yang menyediakan:
 - **Dashboard interaktif** dengan visualisasi data menggunakan Chart.js
@@ -22,7 +22,7 @@ FoodTracker adalah aplikasi web yang menyediakan:
 - **Riwayat makanan** yang tersimpan dengan baik
 - **Goal setting** untuk target nutrisi harian
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Frontend
 - **React 19.2.0** - Library JavaScript untuk UI
@@ -41,31 +41,31 @@ FoodTracker adalah aplikasi web yang menyediakan:
 - **CORS** - Cross-origin resource sharing
 - **dotenv** - Environment variables management
 
-## ✨ Fitur Utama
+##  Fitur Utama
 
-### 🔐 Autentikasi & Keamanan
+###  Autentikasi & Keamanan
 - Register dan login user
 - Password encryption dengan bcrypt
 - JWT token untuk session management
 - Protected routes dan API endpoints
 
-### 🍔 Manajemen Makanan
+###  Manajemen Makanan
 - Tambah makanan baru dengan foto
 - Edit informasi makanan
 - Hapus makanan dari database
 - Lihat daftar semua makanan
 
-### 📊 Dashboard & Analytics
+###  Dashboard & Analytics
 - Grafik kalori dan protein harian
 - Progress tracking menuju target
 - Visual yang menarik dan informatif
 
-### 📸 Upload Gambar
+###  Upload Gambar
 - Upload foto makanan
 - Penyimpanan gambar yang aman
 - Preview gambar di aplikasi
 
-## 🚀 Cara Menjalankan Project
+##  Cara Menjalankan Project
 
 ### Prerequisites
 Pastikan kamu sudah install:
@@ -140,7 +140,7 @@ FoodTracker/
 └── README.md
 ```
 
-## 🎯 Penggunaan
+##  Penggunaan
 
 1. **Register/Login** - Buat akun atau masuk ke akun existing
 2. **Dashboard** - Lihat overview kalori dan protein hari ini
